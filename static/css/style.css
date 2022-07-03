@@ -1,0 +1,25 @@
+.jumbotron {
+    background-image: url(../img/burger-doodle.jpeg);
+    background-size: 100%;
+
+}
+h1 {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: black;
+}
+.jumbotron p{
+  font-weight: bold;
+}
+#outline {
+  border-radius: 15px;
+  font-size: large;
+  text-align: center;
+  background-color: #425170;
+  color: #ede9e9;
+  padding: 16px 16px;
+}
+
+#filler {
+  margin: 16px 16px;
+}
